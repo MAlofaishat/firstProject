@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T18:16:12 EET" name="Default suite" finished-at="2023-12-07T18:16:23 EET" duration-ms="10703">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T18:16:12 EET" name="Default test" finished-at="2023-12-07T18:16:23 EET" duration-ms="10703">
+      <class name="firstAutomationProject.MyTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:12 EET" name="setup" finished-at="2023-12-07T18:16:22 EET" duration-ms="10155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NumberTest()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:22 EET" name="NumberTest" finished-at="2023-12-07T18:16:22 EET" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberTest -->
+        <test-method signature="currencyTest()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:22 EET" name="currencyTest" finished-at="2023-12-07T18:16:23 EET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyTest -->
+        <test-method signature="langugeTest()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:23 EET" name="langugeTest" finished-at="2023-12-07T18:16:23 EET" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- langugeTest -->
+        <test-method signature="timeTest()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:23 EET" name="timeTest" finished-at="2023-12-07T18:16:23 EET" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeTest -->
+        <test-method is-config="true" signature="postTesting()[pri:0, instance:firstAutomationProject.MyTestCase@7d373bcf]" started-at="2023-12-07T18:16:23 EET" name="postTesting" finished-at="2023-12-07T18:16:23 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTesting -->
+      </class> <!-- firstAutomationProject.MyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
